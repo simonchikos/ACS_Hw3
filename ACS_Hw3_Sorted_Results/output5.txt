@@ -1,0 +1,2 @@
+Container is store 1 shapes:
+It is Fraction: numerator = 1  denominator = 5, value = 0.2
